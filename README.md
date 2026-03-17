@@ -50,5 +50,5 @@ CTI Academy holds a non-exclusive, educational license to use the course materia
 Contact
 For questions or collaboration inquiries:
 Jaihone Qayomi
-Email: [jaihonqayomi72@gmail.com]
+📧 Email: [jaihonqayomi72@gmail.com](mailto:jaihonqayomi72@gmail.com) 
 GitHub: https://github.com/JaihonQ⁠�
